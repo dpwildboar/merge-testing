@@ -1,1 +1,20 @@
 /* from command-line repo remove everything */
+body {
+  font-family: Arial;
+}
+
+.new-css-class-1 {
+  color: red;
+}
+
+h1 {
+  font-size: large;
+}
+
+.some-css-class {
+  color: green;
+}
+
+.new-css-class-2 {
+  color: blue;
+}
