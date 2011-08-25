@@ -5,7 +5,7 @@ h1 {
 }
 
 h2 {
-  color: red;
+  color: green;
 }
 
 h3 {
@@ -16,3 +16,6 @@ h4 {
   color: blue;
 }
 
+h5 {
+  color: blue;
+}
