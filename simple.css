@@ -1,6 +1,7 @@
 h1 {
   color: blue;
   font-style: italic;
+  font-family: Verdana;
 }
 
 h2 {
@@ -14,3 +15,4 @@ h3 {
 h4 {
   color: blue;
 }
+
