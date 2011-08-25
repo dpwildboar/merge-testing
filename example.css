@@ -1,5 +1,9 @@
 body {
-  font-family: Verdana;
+  font-family: Arial;
+}
+
+.new-css-class-1 {
+  color: red;
 }
 
 h1 {
@@ -9,4 +13,9 @@ h1 {
 .some-css-class {
   color: green;
 }
+
+.new-css-class-2 {
+  color: blue;
+}
+
 
