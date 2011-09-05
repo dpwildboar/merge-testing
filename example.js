@@ -2,3 +2,6 @@
 console.log("merge conflict");
 console.log("this is just an example");
 
+console.log("on UI");
+
+
